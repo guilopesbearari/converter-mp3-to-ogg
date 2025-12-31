@@ -4,6 +4,6 @@ Install npm/yarn
 Run the script
 
 ```sh
-yarn install
+npm install
 node index.js
 ```
